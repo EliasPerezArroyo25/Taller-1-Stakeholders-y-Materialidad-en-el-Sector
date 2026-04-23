@@ -1,10 +1,10 @@
 # Green IT 
 
-El concepto de Green IT se construye con la participación de tres actores principales que son:
+El concepto de Green IT en Transformación Digital se construye con la participación de tres actores principales que son:
 
-* La comunidad de desarrollo global: La comunidad y sus organizaciones siguen la filosofía de Green IT por razones que pueden incluir desde externas por obligación de las organizaciones mundiales o por internas para aportar a un desarrollo que ofrezcan beneficios propios o a la comunidad.\[1\]  
-* El medio ambiente: El impacto en el medio ambiente puede acelerar la necesidad de tomar decisiones que no se planteaban anteriormente o frenar desarrollos que puedan tener un impacto negativo.  
-* Futuras generaciones: serán quienes reciban el fruto del buen o mal trabajo en el futuro y del que deben aprender.
+* El entorno de desarrollo: El entorno de desarrollo sigue filosofias como es Green IT con propósitos como generar un impacto positivo en la sociedad, crear tecnologías que mejoren la experiencia y calidad de vida, maximizar el bienestar y la productividad apoyándose con software tanto abierto como privado escribiendo código limpio y evitando complejidades algorítmicas altas. \[1\]  
+* El medio ambiente: En la toma de decisiones se tiene siempre en cuenta el impacto en el medio ambiente, dando a conocer al personal de los aspectos ambientales asociados a sus actividades, productos y servicios, para tomar conciencia de ellos, y contribuir a la consecución de los objetivos marcados debatiendo o frenando desarrollos que puedan tener un impacto negativo.  
+* Futuras generaciones: serán quienes reciban el fruto del buen o mal trabajo en el futuro por lo que nos aseguramos de que cada campaña o cada desarrollo tecnológico tenga un propósito más allá de los objetivos comerciales, promoviendo un impacto positivo en la sociedad.
 
 
 ## El Triángulo de la Sostenibilidad: Criterios ASG
