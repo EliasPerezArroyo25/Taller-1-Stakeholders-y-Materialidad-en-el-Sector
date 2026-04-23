@@ -10,11 +10,11 @@ El concepto de Green IT en Transformación Digital se construye con la participa
 
 ## El Triángulo de la Sostenibilidad: Criterios ASG
 
-Para poder evaluar el impacto se han determinado unos criterios llamados criterios ASG:
+Para poder evaluar el impacto se determinan alrededor de los criterios ASG en los cuáles se han especificado unos temas materiales:
 
-* “**A” de ambiente** se refiere a las prácticas sobre la gestión de recursos naturales, cambio climático y relación con el planeta. \[2\]  
-* **“S” de social,** referido concretamente a los derechos humanos, las normas laborales, la diversidad, la igualdad, inclusión y las relaciones con la sociedad y las comunidades locales.   
-* **“G” de gobernanza** se relaciona con la estructura y buen gobierno de la empresa, la ética empresarial, la lucha contra la corrupción, la acción colectiva, la transparencia y la toma de decisiones. Es actualmente la temática menos trabajada, pero desde el Pacto Mundial de la ONU se insta a las empresas a ampliar su visión en este punto, considerando que tiene un impacto interno, pero también externo, y sirve para fortalecer un liderazgo ético desde la agenda de la sostenibilidad.
+* “**A” de ambiente** respecto a las prácticas relacionadas con la gestión de recursos naturales, cambio climático y relación con el planeta se aplican se busca el desarrollo de código eficiente y la auditoría de eficiencia energética . \[2\]  
+* **“S” de social,**  referido concretamente a los derechos humanos, las normas laborales, la diversidad, la igualdad, inclusión y las relaciones con la sociedad y las comunidades locales se busca el desarrollo de talento, el respeto de la privacidad y la adaptabilidad al cliente  .   
+* **“G” de gobernanza** relacionado con la estructura y buen gobierno de la empresa, la ética empresarial, la lucha contra la corrupción, la acción colectiva, la transparencia y la toma de decisiones se han implantado medidas para demostrar la transparencia en cuestiones de Calidad, Medioambiente, Seguridad y Salud en el Trabajo, y Tecnologías de la Información.
 
  ## Referencias  
      
