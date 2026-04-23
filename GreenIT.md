@@ -1,5 +1,3 @@
-# Green IT 
-
 ## Stakeholders en el Ámbito Digital
 El concepto de Green IT en Transformación Digital se construye con la participación de tres actores principales o "stakeholders" que son:
 
@@ -10,7 +8,7 @@ El concepto de Green IT en Transformación Digital se construye con la participa
 
 ## El Triángulo de la Sostenibilidad: Criterios ASG
 
-Para poder evaluar el impacto se determinan alrededor de los criterios ASG en los cuáles se han especificado unos temas materiales:
+Para poder evaluar el impacto se determinan alrededor de los criterios ASG, se han especificado unos temas materiales:
 
 * “**A” de ambiente** respecto a las prácticas relacionadas con la gestión de recursos naturales, cambio climático y relación con el planeta se aplican se busca el desarrollo de código eficiente y la auditoría de eficiencia energética . \[2\]  
 * **“S” de social,**  referido concretamente a los derechos humanos, las normas laborales, la diversidad, la igualdad, inclusión y las relaciones con la sociedad y las comunidades locales se busca el desarrollo de talento, el respeto de la privacidad y la adaptabilidad al cliente  .   
