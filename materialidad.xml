@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="materialidad.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<!-- Raiz empresa_sostenible -->
 <empresa_sostenible>
+    <!-- Bloque con nodo de grupo de interes con nodos de stakeholders dentro-->
     <grupoDeInteres>
         <stakeholder importancia="Alta">El entorno de desarrollo</stakeholder>
         <stakeholder importancia="Alta">El medio ambiente</stakeholder>
         <stakeholder importancia="Media">Futuras generaciones</stakeholder>
     </grupoDeInteres>
+    <!-- Bloque con nodo de temas materiales con nodos de tema_material dentro junto a su elemento descripcion y atributo-->
     <temasMateriales>
         <tema_material nivelImpactoASG="Ambiental">
             <descripcion>Generar un impacto positivo en la sociedad</descripcion>
