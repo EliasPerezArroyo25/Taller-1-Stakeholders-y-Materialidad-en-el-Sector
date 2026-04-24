@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<empresa_sostenible>
+    <grupoDeInteres>
+        <stakeholder>
+            
+        </stakeholder>
+        <stakeholder>
+            
+        </stakeholder>
+        <stakeholder>
+            
+        </stakeholder>
+    </grupoDeInteres>
+    <temasMateriales>
+        <tema_material>
+
+        </tema_material>
+        <tema_material>
+            
+        </tema_material>
+        <tema_material>
+            
+        </tema_material>
+    </temasMateriales>
+</empresa_sostenible>
