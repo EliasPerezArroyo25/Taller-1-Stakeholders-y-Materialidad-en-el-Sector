@@ -16,5 +16,43 @@
             <xs:enumeration value="Gobernanza" />
         </xs:restriction>
     </xs:simpleType>
-    
+
+    <xs:element name="empresa_sostenible">
+        <xs:complexType>
+            <xs:sequence>
+                
+                <xs:element name="grupoDeInteres">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="stakeholder" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:string">
+                                            <xs:attribute name="importancia" type="TipoImportancia" use="required" />
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+                <xs:element name="temasMateriales">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="tema_material" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="descripcion" type="xs:string" />
+                                    </xs:sequence>
+                                    <xs:attribute name="nivelImpactoASG" type="TipoImpactoASG" use="required" />
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
 </xs:schema>
