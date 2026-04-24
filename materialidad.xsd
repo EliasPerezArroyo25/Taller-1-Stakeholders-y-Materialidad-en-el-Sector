@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
 
+    <xs:simpleType name="TipoImportancia">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Alta" />
+            <xs:enumeration value="Media" />
+            <xs:enumeration value="Baja" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="TipoImpactoASG">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Ambiental" />
+            <xs:enumeration value="Social" />
+            <xs:enumeration value="Gobernanza" />
+        </xs:restriction>
+    </xs:simpleType>
+    
 </xs:schema>
