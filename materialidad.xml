@@ -2,11 +2,36 @@
 <?xml-model type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <empresa_sostenible>
     <grupoDeInteres>
-        <stakeholder importancia="Alta"></stakeholder>
+        <stakeholder importancia="Alta">El entorno de desarrollo</stakeholder>
+        <stakeholder importancia="Alta">El medio ambiente</stakeholder>
+        <stakeholder importancia="Media">Futuras generaciones</stakeholder>
     </grupoDeInteres>
     <temasMateriales>
         <tema_material nivelImpactoASG="Ambiental">
-            <descripcion></descripcion>
+            <descripcion>Generar un impacto positivo en la sociedad</descripcion>
+        </tema_material>
+        <tema_material nivelImpactoASG="Ambiental">
+            <descripcion>Maximizar el bienestar y la productividad apoyándose con software
+                        tanto abierto como privado escribiendo código limpio y evitando complejidades
+                        algorítmicas altas
+            </descripcion>  
+        </tema_material>
+        <tema_material nivelImpactoASG="Ambiental">
+            <descripcion>Crear tecnologías que mejoren la experiencia y calidad de vida</descripcion>
+        </tema_material>
+        <tema_material nivelImpactoASG="Social">
+            <descripcion>Busca de desarrollo de talento</descripcion>
+        </tema_material>
+        <tema_material nivelImpactoASG="Social">
+            <descripcion>Busca del respeto de la privacidad del cliente</descripcion>
+        </tema_material>
+        <tema_material nivelImpactoASG="Social">
+            <descripcion>Busca de la adaptabilidad al cliente </descripcion>
+        </tema_material>
+        <tema_material nivelImpactoASG="Gobernanza">
+            <descripcion>Implantado medidas para demostrar la transparencia en cuestiones de Calidad,
+                 Medioambiente, Seguridad y Salud en el Trabajo, y Tecnologías de la Información
+            </descripcion>
         </tema_material>
     </temasMateriales>
 </empresa_sostenible>
